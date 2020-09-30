@@ -15,6 +15,7 @@
 		84A2AE7C250138920001BE61 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 84A2AE7A250138920001BE61 /* LaunchScreen.storyboard */; };
 		84A2AE87250138930001BE61 /* hm2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84A2AE86250138930001BE61 /* hm2Tests.swift */; };
 		84A2AE92250138930001BE61 /* hm2UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84A2AE91250138930001BE61 /* hm2UITests.swift */; };
+		84A2AEA0250138CA0001BE61 /* hustle-on.wav in Resources */ = {isa = PBXBuildFile; fileRef = 84A2AE9F250138CA0001BE61 /* hustle-on.wav */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		84A2AE8D250138930001BE61 /* hm2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = hm2UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		84A2AE91250138930001BE61 /* hm2UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = hm2UITests.swift; sourceTree = "<group>"; };
 		84A2AE93250138930001BE61 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		84A2AE9F250138CA0001BE61 /* hustle-on.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "hustle-on.wav"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				84A2AE732501388F0001BE61 /* ViewController.swift */,
 				84A2AE752501388F0001BE61 /* Main.storyboard */,
 				84A2AE78250138920001BE61 /* Assets.xcassets */,
+				84A2AE9F250138CA0001BE61 /* hustle-on.wav */,
 				84A2AE7A250138920001BE61 /* LaunchScreen.storyboard */,
 				84A2AE7D250138920001BE61 /* Info.plist */,
 			);
@@ -232,6 +235,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				84A2AEA0250138CA0001BE61 /* hustle-on.wav in Resources */,
 				84A2AE7C250138920001BE61 /* LaunchScreen.storyboard in Resources */,
 				84A2AE79250138920001BE61 /* Assets.xcassets in Resources */,
 				84A2AE772501388F0001BE61 /* Main.storyboard in Resources */,
